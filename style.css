@@ -37,11 +37,7 @@ h1 {
 main {
   flex-basis: auto;
   flex-grow: 1;
-  padding: 2rem 0;
-  background-image: url('https://raw.githubusercontent.com/hk1996yhx/CF-Worker-DIR/master/top_img.jpg'); 
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  padding: 2rem 0; 
 }
 
 main .container{
