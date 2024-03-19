@@ -6,14 +6,11 @@ body {
   -webkit-flex-direction: column;
   -moz-flex-direction: column;
   -o-flex-direction: column;
-  
-  background-image: url('https://wx2.sinaimg.cn/mw690/006sPRv4gy1hnk12evronj34h73dhb2d.jpg');
 }
 
 header {
   text-align: center;
   flex-grow: 0;
-  background-image: url('https://wx2.sinaimg.cn/mw690/006sPRv4gy1hnk12evronj34h73dhb2d.jpg');
 }
 
 #head {
@@ -40,9 +37,12 @@ h1 {
 main {
   flex-basis: auto;
   padding: 2rem 0;
-  background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
-  background-blend-mode: screen;
+  background-image: url('https://github.com/hk1996yhx/CF-Worker-DIR/blob/master/20170813124853_J5utC.jpeg') !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
 }
+
 
 main .container{
   height: 100%;
