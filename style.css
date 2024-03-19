@@ -6,21 +6,16 @@ body {
   -webkit-flex-direction: column;
   -moz-flex-direction: column;
   -o-flex-direction: column;
-  background-image: url('https://raw.githubusercontent.com/hk1996yhx/CF-Worker-DIR/master/20170813124853_J5utC.jpeg') !important;
+  background-image: url('https://github.com/hk1996yhx/CF-Worker-DIR/blob/master/20170813124853_J5utC.jpeg?raw=true') !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-size: cover !important;
 }
 
-
 header {
   text-align: center;
   flex-grow: 0;
-  
-  background-image: url('https://raw.githubusercontent.com/hk1996yhx/CF-Worker-DIR/master/20170813124853_J5utC.jpeg') !important;
-  background-repeat: no-repeat !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
+  background-color: #000 !important;  /* Change this to your desired background color */
 }
 
 #head {
@@ -51,7 +46,7 @@ h1 {
 main {
   flex-basis: auto;
   padding: 2rem 0;
-  background-image: url('https://raw.githubusercontent.com/hk1996yhx/CF-Worker-DIR/master/20170813124853_J5utC.jpeg') !important;
+  background-image: url('https://github.com/hk1996yhx/CF-Worker-DIR/blob/master/20170813124853_J5utC.jpeg?raw=true') !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-size: cover !important;
