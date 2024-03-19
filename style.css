@@ -27,6 +27,7 @@ h1 {
 
 #title {
   padding: 5rem 0;
+  background-image: linear-gradient(to top, #537895 0%, #09203f 100%);
 }
 
 #menubtn {
