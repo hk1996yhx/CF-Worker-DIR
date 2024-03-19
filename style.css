@@ -6,24 +6,15 @@ body {
   -webkit-flex-direction: column;
   -moz-flex-direction: column;
   -o-flex-direction: column;
-  background-image: url('https://github.com/hk1996yhx/CF-Worker-DIR/blob/master/20170813124853_J5utC.jpeg?raw=true') !important;
-  background-repeat: no-repeat !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
 }
 
 header {
   text-align: center;
   flex-grow: 0;
-  background-color: #000 !important;  /* Change this to your desired background color */
 }
 
 #head {
-  
-  background-image: url('https://raw.githubusercontent.com/hk1996yhx/CF-Worker-DIR/master/20170813124853_J5utC.jpeg') !important;
-  background-repeat: no-repeat !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
+  background-image: linear-gradient(to top, #537895 0%, #09203f 100%);
 }
 
 #nav .item {
@@ -46,12 +37,9 @@ h1 {
 main {
   flex-basis: auto;
   padding: 2rem 0;
-  background-image: url('https://github.com/hk1996yhx/CF-Worker-DIR/blob/master/20170813124853_J5utC.jpeg?raw=true') !important;
-  background-repeat: no-repeat !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
+  background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
+  background-blend-mode: screen;
 }
-
 
 main .container{
   height: 100%;
