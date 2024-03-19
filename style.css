@@ -6,12 +6,12 @@ body {
   -webkit-flex-direction: column;
   -moz-flex-direction: column;
   -o-flex-direction: column;
-  
-  background-image: url('https://github.com/hk1996yhx/CF-Worker-DIR/blob/master/20170813124853_J5utC.jpeg') !important;
+  background-image: url('your-image-url') !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-size: cover !important;
 }
+
 
 header {
   text-align: center;
