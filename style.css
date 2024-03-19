@@ -13,8 +13,7 @@ header {
   flex-grow: 0;
 }
 
-#head {
-  background-image: linear-gradient(to top, #537895 0%, #09203f 100%);
+#head { 
 }
 
 #nav .item {
